@@ -1,0 +1,7 @@
+# enviroment
+.env
+.env.dev
+.env.dev.complete
+.env.local
+venv/
+.venv/
