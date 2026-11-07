@@ -1,0 +1,16 @@
+# Tested with Python 3.14 (CPU). Install with:
+#   python -m venv .venv && .venv/bin/pip install -r requirements.txt
+#
+# Direct dependencies of anime-recommendation-system-based-on-embeddings.ipynb
+pandas==3.1.1
+numpy==2.5.4
+scikit-learn==1.9.1
+tqdm==4.70.1
+kagglehub==1.0.3
+sentence-transformers==6.2.0
+
+# Running the notebook from the command line / Jupyter
+ipykernel==7.4.0
+nbconvert==7.17.2
+nbclient==0.11.0
+jupyter==1.1.1
